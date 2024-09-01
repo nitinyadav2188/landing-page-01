@@ -81,3 +81,14 @@ body {
     right: -54%;
     top: -7%;
 }
+#vertical-text>h1{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    -webkit-text-stroke-width: 2px;-webkit-text-stroke-color: #fff;
+    color: transparent;
+    letter-spacing: 15px;
+    transform: rotate(90deg);
+    transform-origin: 0% 0%; 
+}
